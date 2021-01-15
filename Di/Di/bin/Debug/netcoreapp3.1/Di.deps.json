@@ -1,0 +1,165 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Di/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0",
+          "Juego": "1.0.0",
+          "LightInject": "6.4.0",
+          "LightInject.Source": "6.4.0",
+          "PersistenciaCinco": "1.0.0",
+          "PersistenciaCuatro": "1.0.0",
+          "PersistenciaDos": "1.0.0",
+          "PersistenciaTres": "1.0.0",
+          "PersistenciaUno": "1.0.0"
+        },
+        "runtime": {
+          "Di.dll": {}
+        }
+      },
+      "LightInject/6.4.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/LightInject.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "LightInject.Source/6.4.0": {},
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Interfaces.dll": {}
+        }
+      },
+      "Juego/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Juego.dll": {}
+        }
+      },
+      "PersistenciaCinco/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PersistenciaCinco.dll": {}
+        }
+      },
+      "PersistenciaCuatro/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PersistenciaCuatro.dll": {}
+        }
+      },
+      "PersistenciaDos/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PersistenciaDos.dll": {}
+        }
+      },
+      "PersistenciaTres/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PersistenciaTres.dll": {}
+        }
+      },
+      "PersistenciaUno/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PersistenciaUno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Di/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LightInject/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WjrY67fnaUJzBSnb7wiaZUOSl7gmxjfg+xo+GrHI55jz0YZR2b5ZB+lDOM5XDu2+2+/OnVT3y4+6BOv6xTqo9w==",
+      "path": "lightinject/6.4.0",
+      "hashPath": "lightinject.6.4.0.nupkg.sha512"
+    },
+    "LightInject.Source/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KlvkCss0Y2coeSVR2NWAv9NNHQxAA7BqLCl7YYpL0QLwbfcvtqqwJJwHwjquDG8hEkIJV4AzvPHFR4Xu3kLx+g==",
+      "path": "lightinject.source/6.4.0",
+      "hashPath": "lightinject.source.6.4.0.nupkg.sha512"
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Juego/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenciaCinco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenciaCuatro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenciaDos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenciaTres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenciaUno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

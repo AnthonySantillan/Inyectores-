@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

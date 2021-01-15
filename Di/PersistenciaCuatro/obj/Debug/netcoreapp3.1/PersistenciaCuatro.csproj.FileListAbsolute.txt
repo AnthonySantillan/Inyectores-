@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.AssemblyInfo.cs
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\PersistenciaCuatro.deps.json
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\PersistenciaCuatro.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\PersistenciaCuatro.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.csproj.CopyComplete
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaCuatro\obj\Debug\netcoreapp3.1\PersistenciaCuatro.pdb

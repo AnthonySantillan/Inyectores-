@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qD52JoQlMKGoEolscysyCMlMbot3PXVhjvauzkKAP+l4A6zfvvEOH+OaqEA0v/ZZZhLGNJNgOitF+W3HwxjgFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Di\\Di.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\lightinject\\6.4.0\\lightinject.6.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\lightinject.source\\6.4.0\\lightinject.source.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

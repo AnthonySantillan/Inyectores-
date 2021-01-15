@@ -1,0 +1,332 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LightInject/6.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/LightInject.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/LightInject.dll": {}
+        }
+      },
+      "LightInject.Source/6.4.0": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/cs/netcoreapp2.0/LightInject/LightInject.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "LightInject/LightInject.cs"
+          }
+        }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interfaces.dll": {}
+        }
+      },
+      "Juego/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Juego.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Juego.dll": {}
+        }
+      },
+      "PersistenciaCinco/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersistenciaCinco.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenciaCinco.dll": {}
+        }
+      },
+      "PersistenciaCuatro/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersistenciaCuatro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenciaCuatro.dll": {}
+        }
+      },
+      "PersistenciaDos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersistenciaDos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenciaDos.dll": {}
+        }
+      },
+      "PersistenciaTres/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersistenciaTres.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenciaTres.dll": {}
+        }
+      },
+      "PersistenciaUno/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersistenciaUno.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenciaUno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LightInject/6.4.0": {
+      "sha512": "WjrY67fnaUJzBSnb7wiaZUOSl7gmxjfg+xo+GrHI55jz0YZR2b5ZB+lDOM5XDu2+2+/OnVT3y4+6BOv6xTqo9w==",
+      "type": "package",
+      "path": "lightinject/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/LightInject.dll",
+        "lib/net452/LightInject.pdb",
+        "lib/net452/LightInject.xml",
+        "lib/net46/LightInject.dll",
+        "lib/net46/LightInject.pdb",
+        "lib/net46/LightInject.xml",
+        "lib/netcoreapp2.0/LightInject.dll",
+        "lib/netcoreapp2.0/LightInject.pdb",
+        "lib/netcoreapp2.0/LightInject.xml",
+        "lib/netstandard1.1/LightInject.dll",
+        "lib/netstandard1.1/LightInject.pdb",
+        "lib/netstandard1.1/LightInject.xml",
+        "lib/netstandard1.3/LightInject.dll",
+        "lib/netstandard1.3/LightInject.pdb",
+        "lib/netstandard1.3/LightInject.xml",
+        "lib/netstandard1.6/LightInject.dll",
+        "lib/netstandard1.6/LightInject.pdb",
+        "lib/netstandard1.6/LightInject.xml",
+        "lib/netstandard2.0/LightInject.dll",
+        "lib/netstandard2.0/LightInject.pdb",
+        "lib/netstandard2.0/LightInject.xml",
+        "lightinject.6.4.0.nupkg.sha512",
+        "lightinject.nuspec"
+      ]
+    },
+    "LightInject.Source/6.4.0": {
+      "sha512": "KlvkCss0Y2coeSVR2NWAv9NNHQxAA7BqLCl7YYpL0QLwbfcvtqqwJJwHwjquDG8hEkIJV4AzvPHFR4Xu3kLx+g==",
+      "type": "package",
+      "path": "lightinject.source/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "contentFiles/cs/net452/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/net46/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/netcoreapp2.0/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/netstandard1.1/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/netstandard1.3/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/netstandard1.6/LightInject/LightInject.cs.pp",
+        "contentFiles/cs/netstandard2.0/LightInject/LightInject.cs.pp",
+        "lightinject.source.6.4.0.nupkg.sha512",
+        "lightinject.source.nuspec"
+      ]
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
+    },
+    "Juego/1.0.0": {
+      "type": "project",
+      "path": "../Juego/Juego.csproj",
+      "msbuildProject": "../Juego/Juego.csproj"
+    },
+    "PersistenciaCinco/1.0.0": {
+      "type": "project",
+      "path": "../PersistenciaCinco/PersistenciaCinco.csproj",
+      "msbuildProject": "../PersistenciaCinco/PersistenciaCinco.csproj"
+    },
+    "PersistenciaCuatro/1.0.0": {
+      "type": "project",
+      "path": "../PersistenciaCuatro/PersistenciaCuatro.csproj",
+      "msbuildProject": "../PersistenciaCuatro/PersistenciaCuatro.csproj"
+    },
+    "PersistenciaDos/1.0.0": {
+      "type": "project",
+      "path": "../PercistenciaDos/PersistenciaDos.csproj",
+      "msbuildProject": "../PercistenciaDos/PersistenciaDos.csproj"
+    },
+    "PersistenciaTres/1.0.0": {
+      "type": "project",
+      "path": "../PersistenciaTres/PersistenciaTres.csproj",
+      "msbuildProject": "../PersistenciaTres/PersistenciaTres.csproj"
+    },
+    "PersistenciaUno/1.0.0": {
+      "type": "project",
+      "path": "../PersistenciaUno/PersistenciaUno.csproj",
+      "msbuildProject": "../PersistenciaUno/PersistenciaUno.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Entidades >= 1.0.0",
+      "Interfaces >= 1.0.0",
+      "Juego >= 1.0.0",
+      "LightInject >= 6.4.0",
+      "LightInject.Source >= 6.4.0",
+      "PersistenciaCinco >= 1.0.0",
+      "PersistenciaCuatro >= 1.0.0",
+      "PersistenciaDos >= 1.0.0",
+      "PersistenciaTres >= 1.0.0",
+      "PersistenciaUno >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Di\\Di.csproj",
+      "projectName": "Di",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Di\\Di.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Di\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Interfaces\\Interfaces.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Juego\\Juego.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\Juego\\Juego.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PercistenciaDos\\PersistenciaDos.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PercistenciaDos\\PersistenciaDos.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaCinco\\PersistenciaCinco.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaCinco\\PersistenciaCinco.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaCuatro\\PersistenciaCuatro.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaCuatro\\PersistenciaCuatro.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaTres\\PersistenciaTres.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaTres\\PersistenciaTres.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaUno\\PersistenciaUno.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\Progra\\Progra\\Di\\PersistenciaUno\\PersistenciaUno.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "LightInject": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          },
+          "LightInject.Source": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

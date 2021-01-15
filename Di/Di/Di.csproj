@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LightInject" Version="6.4.0" />
+    <PackageReference Include="LightInject.Source" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj" />
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
+    <ProjectReference Include="..\Juego\Juego.csproj" />
+    <ProjectReference Include="..\PercistenciaDos\PersistenciaDos.csproj" />
+    <ProjectReference Include="..\PersistenciaCinco\PersistenciaCinco.csproj" />
+    <ProjectReference Include="..\PersistenciaCuatro\PersistenciaCuatro.csproj" />
+    <ProjectReference Include="..\PersistenciaTres\PersistenciaTres.csproj" />
+    <ProjectReference Include="..\PersistenciaUno\PersistenciaUno.csproj" />
+  </ItemGroup>
+
+</Project>

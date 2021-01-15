@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.AssemblyInfo.cs
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\PersistenciaTres.deps.json
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\PersistenciaTres.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\PersistenciaTres.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.csproj.CopyComplete
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\PersistenciaTres\obj\Debug\netcoreapp3.1\PersistenciaTres.pdb

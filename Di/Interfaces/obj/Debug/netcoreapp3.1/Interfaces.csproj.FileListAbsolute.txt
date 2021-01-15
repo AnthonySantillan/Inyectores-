@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\hp\source\repos\Progra\Progra\Di\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
